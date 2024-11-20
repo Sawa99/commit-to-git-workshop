@@ -1,3 +1,4 @@
+Editing this file as part of Task 2!
 This is the second example file with a random story that is definitely not AI-generated.
 
 
